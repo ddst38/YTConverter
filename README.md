@@ -2,7 +2,7 @@
 
 **Lolo Youtube Extracteur** est une application Java Swing simple et conviviale pour télécharger et convertir des vidéos YouTube en MP3 ou MP4, avec une interface graphique personnalisée et des icônes mignonnes de Lolo, le chien ninja développeur 🐾.
 
-Développé par **Pipou Software**, avec ❤️, yt-dlp, ffmpeg et plein de Bonies™.
+Développé par **PiPou Software**, avec ❤️, yt-dlp, ffmpeg et plein de Bonies™.
 
 ## 🎬 Fonctionnalités
 
@@ -71,3 +71,7 @@ Vous êtes seul responsable de l’utilisation que vous en faites.
 https://github.com/yt-dlp/yt-dlp/releases/latest
 https://ffmpeg.org/download.html
 https://github.com/BtbN/FFmpeg-Builds/releases
+
+https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl-shared.zip
+https://github.com/yt-dlp/yt-dlp/releases/download/2025.03.31/yt-dlp.exe
+

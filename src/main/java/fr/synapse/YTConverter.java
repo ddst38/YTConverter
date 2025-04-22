@@ -8,7 +8,6 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
 
 import com.formdev.flatlaf.FlatDarculaLaf;
-import com.formdev.flatlaf.FlatLightLaf;
 
 public class YTConverter {
 
