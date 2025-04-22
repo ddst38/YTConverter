@@ -273,7 +273,8 @@ public class YTConverter {
 
                     ProcessBuilder pb = new ProcessBuilder(
                             ytDlp.getAbsolutePath(),
-                            "--proxy", "http://55.225.55.6:3128",
+                            //"--proxy", "http://55.225.55.6:3128",
+                            "--proxy", "http://55.227.148.201:3128",
                             "--ffmpeg-location", ffmpeg.getAbsolutePath(),
                             "-f", "bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4",
                             "-o", outputPath,

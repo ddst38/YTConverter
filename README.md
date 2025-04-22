@@ -23,7 +23,7 @@ Développé par **Pipou Software**, avec ❤️, yt-dlp, ffmpeg et plein de Boni
 
 ## 🚀 Prérequis
 
-- Java 17+ (ou version compatible avec Swing et FlatLaf)
+- Java 21+ (ou version compatible avec Swing et FlatLaf)
 - Système Windows (les binaires `yt-dlp.exe` et `ffmpeg.exe` fournis sont pour Windows)
 - Aucun autre logiciel requis : tout est embarqué dans l'application !
 
