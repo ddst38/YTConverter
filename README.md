@@ -67,3 +67,7 @@ ou dont vous possédez les droits d'utilisation.
 L’auteur décline toute responsabilité en cas d’usage non autorisé du logiciel,
 notamment pour le téléchargement de contenus protégés par des droits d’auteur.
 Vous êtes seul responsable de l’utilisation que vous en faites.
+
+https://github.com/yt-dlp/yt-dlp/releases/latest
+https://ffmpeg.org/download.html
+https://github.com/BtbN/FFmpeg-Builds/releases
