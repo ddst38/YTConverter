@@ -6,7 +6,7 @@ Développé par **Pipou Software**, avec ❤️, yt-dlp, ffmpeg et plein de Boni
 
 ## 🎬 Fonctionnalités
 
-- Télécharge des vidéos YouTube via leur URL ou ID.
+- Télécharge des vidéos YouTube LIBRE DE DROITS via leur URL ou ID.
 - Convertit les vidéos en :
     - 🎵 MP3 (audio uniquement)
     - 🎥 MP4 (audio + vidéo)
@@ -58,3 +58,12 @@ jpackage ^
 --resource-dir src/main/resources/ ^
 --runtime-image C:/workspace/env/java/graalvm-jdk-21.0.7+8.1
 ```
+**⚠️ Disclaimer**
+
+YTConverter est un outil développé à des fins éducatives et personnelles.
+Il est destiné uniquement au téléchargement de contenus libres de droits 
+ou dont vous possédez les droits d'utilisation.
+
+L’auteur décline toute responsabilité en cas d’usage non autorisé du logiciel,
+notamment pour le téléchargement de contenus protégés par des droits d’auteur.
+Vous êtes seul responsable de l’utilisation que vous en faites.
